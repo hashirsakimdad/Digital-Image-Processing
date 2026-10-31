@@ -1,0 +1,14 @@
+Lab 4 — REAL clinical dataset (RESECT)
+======================================
+Source: RESECT / RESECT-SEG (Xiao et al.; HuggingFace MedOtter/RESECT-SEG)
+Patient: Case1
+
+mri_before.jpg : axial slice from Case1-FLAIR.nii.gz (pre-op MRI, tumor visible)
+mri_after.jpg  : same slice after removing tumor voxels using the official
+                 Case1-FLAIR-tumor.nii.gz mask + inpainting (post-resection simulation
+                 grounded on real anatomy + real tumor segmentation)
+
+Also included: Case1-US-before / Case1-US-after real intraoperative ultrasound
+               (true before/after resection of the same patient).
+
+Used for ALL Lab 4 Tasks 1–7 and the tumor change-detection scenario.
