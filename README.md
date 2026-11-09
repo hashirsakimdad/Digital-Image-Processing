@@ -8,7 +8,8 @@ Lab code for the Digital Image Processing course (Fall 2026, PAF-IAST), by Hashi
 | Lab 2 | Colour conversion, crop, resize, flip | `generate_lab_outputs.py` (section for Lab 2) |
 | Lab 3 | Arithmetic operations, white-space count, bounding boxes | `Lab Tasks/Lab task 3/labtask3.ipynb` |
 | Lab 4 | Two-image operations, blending, bitwise masks, change detection | `Lab Tasks/Lab task 4/labtask4.ipynb` |
-| Lab 5 | Intensity transformations for retinal image enhancement | `Lab05_Intensity_Transformations.ipynb` |
+| Lab 5 | Intensity transformations for retinal image enhancement | `Lab Tasks/Lab task 5/labtask5.ipynb` |
+| Lab 6 | Bit plane slicing, histograms, contrast stretching, histogram equalization | `Lab Tasks/Lab task 6/labtask6.ipynb` |
 
 `generate_lab_outputs.py` regenerates the Lab 1 to 4 output images from a local input image.
 
